@@ -117,5 +117,32 @@ grocify/
 │   └── context/
 └── .env
 ```
+---
 
-### 📸 Screenshots
+## 📸 Screenshots
+### 🏠 Home Page
+![](https://github.com/user-attachments/assets/ad387f3f-c1c2-472c-ba90-d7d2f49f4793)
+![Screenshot 2025-05-31 162105](https://github.com/user-attachments/assets/08dd5cee-4285-4d1d-b4e7-3d275fc5531d)
+---
+### 📦 All Products Page
+![Screenshot 2025-05-31 162141](https://github.com/user-attachments/assets/3e81a76d-0701-4e5f-9b09-e48e17a0cc0c)
+---
+### 🛒 Cart Page
+![Screenshot 2025-05-31 162236](https://github.com/user-attachments/assets/483ae791-3191-42c3-8a76-3d072ce8284c)
+---
+### 🚚 My Orders Page
+![Screenshot 2025-05-31 162317](https://github.com/user-attachments/assets/d4813a09-5303-4ef5-86e2-1db0ec366bc3)
+---
+### 👨🏻‍💻 Admin Dashboard
+![Screenshot 2025-05-31 162414](https://github.com/user-attachments/assets/fd81da03-d273-401b-a2b5-76d3eea8c583)
+![Screenshot 2025-05-31 162443](https://github.com/user-attachments/assets/e178807d-cc6b-4572-8acb-096242cdb084)
+![Screenshot 2025-05-31 162510](https://github.com/user-attachments/assets/89319933-411c-4738-9ba8-46a160e3579f)
+---
+
+## 📄 License
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
+
+
+
+
+
